@@ -1,0 +1,4 @@
+#include <barelib.h>
+
+void printf(char* input, ...);
+int uart_putc(char ch);
